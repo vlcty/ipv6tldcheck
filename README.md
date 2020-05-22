@@ -30,7 +30,6 @@ true = AAAA record returned, false = No AAAA record returned
 
 So far I've only found a tiny fractiob of TLDs without IPv6 nameservers:
 
-- BUY
 - CK
 - DJ
 - FK
